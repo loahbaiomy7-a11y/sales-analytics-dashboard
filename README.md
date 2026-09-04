@@ -23,3 +23,10 @@ A small end-to-end data analytics project: cleaning raw AdventureWorks data in S
 - Detailed sales table with filters
 
 ## 📁 Project Structure
+
+- **sql/** → SQL scripts (views, fact/dim tables)
+- **powerbi/** → Power BI dashboard file (.pbix)
+- **screenshots/** → Dashboard screenshots
+
+## 📷 Screenshots
+![Dashboard](screenshots/Screenshot%202026-09-04%20201141.png)
